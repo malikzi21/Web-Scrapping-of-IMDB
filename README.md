@@ -20,7 +20,7 @@ This project involves web scraping data from IMDB to obtain information about ge
 The script (`web_scraping_imdb.ipynb`) performs the following tasks:
 - Fetches genre information from IMDB's genre page.
 - Iterates through each genre and retrieves movie details.
-- Collects reviews for each movie, including the username of the reviewer.
+- Collects reviews for each movie.
 - Outputs the data into a CSV file named `movie_review.csv`.
 
 ## Notes
@@ -31,4 +31,4 @@ The script (`web_scraping_imdb.ipynb`) performs the following tasks:
 This project is for educational purposes only. Ensure compliance with IMDB's terms of service and policies before using the script for data extraction.
 
 ## Author
-[Malik Zadah Irfan]
+Malik Zadah Irfan
